@@ -1,3 +1,5 @@
 #Demo
 
-Hello world!.
+Hello world!
+
+Just started learning git and github.
